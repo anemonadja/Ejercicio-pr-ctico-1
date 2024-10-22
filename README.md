@@ -11,9 +11,9 @@ Este proyecto consiste en un sitio web informativo para el **Hospital Matta**, q
 ## Estructura de carpetas y archivos
 
 /hospital Matta
-    - /img          # Imágenes utilizadas en el sitio web
-    - /pags         # Carpeta que contiene las diferentes páginas del sitio
-    - index.html    # Página del equipo médico
-    - equipomedico.html    # Página del equipo médico
-    - contacto.html        # Página de contacto
-    - README.md         # Archivo README con las instrucciones y descripción del proyecto
+- /img          # Imágenes utilizadas en el sitio web
+- /pags         # Carpeta que contiene las diferentes páginas del sitio
+- index.html    # Página del equipo médico
+- equipomedico.html    # Página del equipo médico
+- contacto.html        # Página de contacto
+- README.md         # Archivo README con las instrucciones y descripción del proyecto
