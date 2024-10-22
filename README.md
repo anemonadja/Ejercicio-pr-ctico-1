@@ -13,7 +13,6 @@ Este proyecto consiste en un sitio web informativo para el **Hospital Matta**, q
 /hospital Matta
     - /img          # Imágenes utilizadas en el sitio web
     - /pags         # Carpeta que contiene las diferentes páginas del sitio
-    
     - index.html    # Página del equipo médico
     - equipomedico.html    # Página del equipo médico
     - contacto.html        # Página de contacto
